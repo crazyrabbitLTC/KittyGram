@@ -1,0 +1,19 @@
+{
+  "contracts": {
+    "KittyGram": {
+      "address": "0xdda6327139485221633a1fcd65f4ac932e60a2e1",
+      "bytecodeHash": "067267c343cc7b83243daf11981f944330dd54eea57f2429f6422ad5d8911077"
+    }
+  },
+  "proxies": {},
+  "app": {
+    "address": "0x82d50ad3c1091866e258fd0f1a7cc9674609d254"
+  },
+  "version": "0.1.0",
+  "package": {
+    "address": "0xaa588d3737b611bafd7bd713445b314bd453a5c8"
+  },
+  "provider": {
+    "address": "0xf204a4ef082f5c04bb89f7d5e6568b796096735a"
+  }
+}
